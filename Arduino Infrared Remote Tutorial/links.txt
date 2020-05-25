@@ -1,0 +1,7 @@
+Arduino Infrared Remote Tutorial
+
+https://www.instructables.com/id/Arduino-Infrared-Remote-tutorial/
+
+
+raspberry 
+https://www.14core.com/wiring-the-vs1838-nec-ir-38k-infrared-receiver-on-raspberry-pi/
