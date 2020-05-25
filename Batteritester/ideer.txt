@@ -1,0 +1,22 @@
+12v
+
+ha sykluser
+
+mål
+belast x min
+mål
+pause (la batteri hvile) x min
+mål
+...gjenta
+
+prøv med forskjellig tider og belastning
+
+ha tidsmåler på lcd eller led
+først sek, så etter 60 sec , vis minutter
+
+
+det kan være fem lysdioder som hele tiden lyser med det antall i forhold til hvor bra batteriet er
+
+det kan oppdatere seg ved hver syklus eller minutt
+
+
